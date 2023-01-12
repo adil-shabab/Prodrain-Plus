@@ -2289,7 +2289,7 @@ footer{
 .qualit__y .box{
   display: flex;
   min-height: 210px;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
   color: white;
   margin-top: 20px;

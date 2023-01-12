@@ -126,14 +126,14 @@
         <div class="service-banner">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-12 d-flex align-items-center justify-content-center">
+                    <div class="col-lg-6 col-12 d-flex align-items-center justify-content-center">
                         <div class="banner-head">
                             <h2  data-aos="fade-right" data-aos-duration="1000" data-aos-delay="300">Hyaluronic Acid Fillers</h2>
                             <p data-aos="fade-right" data-aos-duration="1300" data-aos-delay="400">Hyaluronic acid is essential for maintaining moisture</p>
                             <p class="sm-desc" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="400">Hyaluronic acid (HA) is essential for maintaining moisture, firmness and elasticity of the skin. Due to environmental factors such as exposure to sun, pollution and free radicals as well as the natural aging process, the skin’s HA levels decline year after year. Our skin becomes thinner, drier and loses its elasticity. Lines and wrinkles start to appear and the entire harmony of the face changes.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12 d-flex align-items-center justify-content-center">
+                    <div class="col-lg-6 col-12 d-flex align-items-center justify-content-center">
                        <img src="assets/images/services/medical/kbelle.png" alt="" class="img-fluid">
                     </div>
                 </div>
@@ -144,7 +144,7 @@
             <div class="mb-5 our__equipments">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6 d-flex-full flex-column">
+                        <div class="col-lg-6 d-flex-full flex-column">
                             <div>
                             <div style="margin-bottom: 42px;" class="img__box bg-white">
                                 <img src="https://static.wixstatic.com/media/dc8033_6d993faca3fe4b25bd9e8ba9874ee7b2~mv2.png/v1/fill/w_609,h_274,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/dc8033_6d993faca3fe4b25bd9e8ba9874ee7b2~mv2.png" alt="" class="img-fluid">
@@ -154,7 +154,7 @@
                             <p class="text-white">High Mixture content means that even a small amount causes a large amount of effect. By realizing high viscosity with MSC technology, particle structure is dense and it has high moisture content</p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-lg-6">
                             <div class="bg-white">
                                 <img src="https://static.wixstatic.com/media/dc8033_28647e334a9840f0a82b6c650e486285~mv2.png/v1/fill/w_609,h_684,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/dc8033_28647e334a9840f0a82b6c650e486285~mv2.png" alt="" class="img-fluid">
                             </div>
@@ -170,7 +170,7 @@
             <h2 class="text-center text-white"><span>Kbelle </span> Quality Assurance</h2>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-lg-4">
                         <div class="box">
                         <i class="fa-solid fa-circle-check"></i>
                         <div>
@@ -179,7 +179,7 @@
                         </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-lg-4">
                         <div class="box">
                         <i class="fa-solid fa-circle-nodes"></i>
                         <div>
@@ -188,7 +188,7 @@
                         </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-lg-4">
                         <div class="box">
                         <i class="fa-solid fa-table-cells-large"></i>
                         <div>
