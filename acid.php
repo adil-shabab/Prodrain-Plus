@@ -159,7 +159,18 @@
                                 <img src="https://static.wixstatic.com/media/dc8033_28647e334a9840f0a82b6c650e486285~mv2.png/v1/fill/w_609,h_684,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/dc8033_28647e334a9840f0a82b6c650e486285~mv2.png" alt="" class="img-fluid">
                             </div>
                         </div>
-                        
+                        <div class="mt-5 col-lg-6">
+                            <img src="assets/images/services/medical/img-1.webp" alt="" class="img-fluid">
+                        </div>
+                        <div class="mt-5 col-lg-6">
+                            <img src="assets/images/services/medical/img-2.webp" alt="" class="img-fluid">
+                        </div>
+                        <div class="mt-5 col-lg-6">
+                            <img src="assets/images/services/medical/img-3.webp" alt="" class="img-fluid">
+                        </div>
+                        <div class="mt-5 col-lg-6">
+                            <img src="assets/images/services/medical/img-4.webp" alt="" class="img-fluid">
+                        </div>
                     </div>
                 </div>
             </div>

@@ -146,8 +146,9 @@
                     <div class="row">
                         <div class="col-12 car__d">
                             <div class="row">
-                                <div class="col-md-5 d-flex-full">
+                                <div class="col-md-5 d-flex-full flex-column">
                                     <img src="assets/images/services/medical/5.png" alt="" class="img-fluid">
+                                    <span style="font-size: 20px; margin-top: 17px;">HEALFLON SAFETY</span>
                                 </div>
                                 <div class="col-md-7 d-flex-full flex-column">
                                     <p>HEALFLON SAFETY™ is a safety device that protects the users, i.e. healthcare professionals from accidental needle-stick injury during IV Cannula insertion. The key feature of this device is a mechanism to fully shield the needle TIP in a color coded tip cover, immediately after catheter insertion</p>
@@ -176,15 +177,18 @@
                                         <li>Non-pyrogenic, Sterilized by Ethylene Oxide.</li>
                                     </ul>
                                 </div>
-                                <div class="col-md-5 d-flex-full">
+                                <div class="col-md-5 d-flex-full flex-column">
                                     <img src="assets/images/services/medical/7.png" alt="" class="img-fluid">
+                                    <span style="font-size: 20px; margin-top: 17px;">3 WAY STOP COCK</span>
+
                                 </div>
                             </div>
                         </div>
                         <div class="col-12 car__d">
                             <div class="row">
-                                <div class="col-md-5 d-flex-full">
+                                <div class="col-md-5 d-flex-full flex-column">
                                     <img src="assets/images/services/medical/8.png" alt="" class="img-fluid">
+                                    <span style="font-size: 20px; margin-top: 17px;">AV FISTULA NEEDLE</span>
                                 </div>
                                 <div class="col-md-7 d-flex-full flex-column">
                                     <p>Safety AV Fistula Needle allows venous and arterial access for patients undergoing hemodialysis. USP Class VI soft, kink-resistant tubing made from medical-grade PVC</p>
@@ -212,15 +216,17 @@
                                         <li>Chamber length of drip-chamber available in 16mm and 19mm.</li>
                                     </ul>
                                 </div>
-                                <div class="col-md-5 d-flex-full">
+                                <div class="col-md-5 d-flex-full flex-column">
                                     <img src="assets/images/services/medical/9.png" alt="" class="img-fluid">
+                                    <span style="font-size: 20px; margin-top: 17px;">TRANSFUSION SET</span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-12 car__d">
                             <div class="row">
-                                <div class="col-md-5 d-flex-full">
+                                <div class="col-md-5 d-flex-full flex-column">
                                     <img src="assets/images/services/medical/11.png" alt="" class="img-fluid">
+                                    <span style="font-size: 20px; margin-top: 17px;">CONNECTORS & STOPPERS</span>
                                 </div>
                                 <div class="col-md-7 d-flex justify-content-center flex-column">
                                     <p>Individually packed universal luer lock for sterile closure of wide variety of devices. Non-pyrogenic, Sterilized by Ethylene Oxide.</p>
@@ -248,15 +254,17 @@
                                         <li>Valvular Needle (V-Needle) and Hollow Syringe allow ease of guide wire insertion as per clinician preference</li>
                                     </ul>
                                 </div>
-                                <div class="col-md-5 d-flex-full">
+                                <div class="col-md-5 d-flex-full flex-column">
                                     <img src="assets/images/services/medical/10.png" alt="" class="img-fluid">
+                                    <span style="font-size: 20px; margin-top: 17px;">CENTRAL VENOUS CATHETER</span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-12 car__d">
                             <div class="row">
-                                <div class="col-md-5 d-flex-full">
+                                <div class="col-md-5 d-flex-full flex-column">
                                     <img src="assets/images/services/medical/12.png" alt="" class="img-fluid">
+                                    <span style="font-size: 20px; margin-top: 17px;">EXTENSION TUBE</span>
                                 </div>
                                 <div class="col-md-7 d-flex justify-content-center flex-column">
                                     <p>Extension tube provides separation of administration and insertion sites. Ideal for administering contrast medium/fluids during imaging procedures that require patient to enter a gantry; e.g. CT and MRI Scans</p>
