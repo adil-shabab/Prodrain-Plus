@@ -167,10 +167,23 @@
                                 <div class="mt-3 col-md-6 d-flex flex-column justify-content-center">
                                     <h4><span>AI </span> Inspection</h4>
                                     <p>Highly reliable automated self learning QA inspection</p>
+                                </div>
+                            </div>
+                        </div>  
+                        <div class="col-12" style="margin-bottom:35px;">
+                            <div class="row b_o_x">
+                                <div class="mt-3 col-md-6 d-flex-full">
+                                    <img src="assets/images/services/dental/img-3.png" alt="" class="img-fluid">
+                                </div>
+                                <div class="mt-3 col-md-6 d-flex flex-column justify-content-center">
+                                    <h4><span> Clean </span> Implant</h4>
+                                    <p>Increase hydrophilicity and accerates a synososis by attracting blood and protein to the area</p>
+                                    <p>Accelerates patient recovery time as Plasma doesn't have any known side effects to human immune system.</p>
                                     <p>Suppresses backterias in oral cavity, therefore lengthening implant's lifespan</p>
                                 </div>
                             </div>
-                        </div>                        
+                        </div>  
+                                              
                     </div>
                 </div>
             </div>
